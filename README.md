@@ -1,6 +1,6 @@
 📊 Sales Prediction Model
 
-🚀 About the Project
+🚀 About The Project
 
 A machine learning project that predicts Walmart's weekly sales based on input features such as temperature, fuel price, Consumer Price Index (CPI), unemployment rates, and holiday flags.This project involves model building, hyperparameter tuning, and model stacking for improved performance.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -19,16 +19,16 @@ Seaborn
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📂 Project Structure
 
-├── app.py                       # Flask app for serving predictions
-├── Hyper_tuned_SalesModel.ipynb  # Jupyter notebook for training and tuning models
-├── sales_model.pkl               # Basic machine learning model
-├── hyper_tuned_sales_model.pkl   # Model with hyperparameter tuning
-├── stacking_model.pkl            # Stacking ensemble model
-├── scaler.pkl                    # Scaler used for feature normalization
-├── walmart.csv                   # Walmart sales dataset
-├── .gitignore                    # Files and folders to ignore in Git
-├── README.md                     # Project documentation
-└── requirements.txt              # Python dependencies
+├── app.py                         # Flask app for serving predictions
+├── Hyper_tuned_SalesModel.ipynb   # Jupyter notebook for training and tuning models
+├── sales_model.pkl                # Basic machine learning model
+├── hyper_tuned_sales_model.pkl    # Model with hyperparameter tuning
+├── stacking_model.pkl             # Stacking ensemble model
+├── scaler.pkl                     # Scaler used for feature normalization
+├── walmart.csv                    # Walmart sales dataset
+├── .gitignore                     # Files and folders to ignore in Git
+├── README.md                      # Project documentation
+└── requirements.txt               # Python dependencies
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📈 How to Run Locally
