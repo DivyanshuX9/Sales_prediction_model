@@ -8,3 +8,4 @@ scikeras
 matplotlib
 seaborn
 streamlit
+plotly
