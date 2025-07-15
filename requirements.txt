@@ -3,7 +3,7 @@ pandas
 numpy
 joblib
 xgboost
-tensorflow
+tensorflow==2.15.0
 scikeras
 matplotlib
 seaborn
