@@ -1,4 +1,4 @@
-📊 Sales Prediction Model1
+📊 Sales Prediction Model
 
 🚀 About The Project
 
